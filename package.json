@@ -11,5 +11,29 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "name": "crud-rails-react",
+  "description": "This README would normally document whatever steps are necessary to get the\r application up and running.",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chuong1928/Tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chuong1928/Tools/issues"
+  },
+  "homepage": "https://github.com/Chuong1928/Tools#readme"
 }
